@@ -12,9 +12,8 @@
 	* Giải nén file vừa tải			
 	* Copy thư mục `mingw64` vào **<ROOTDIR>** (Ví dụ `D:\software`)
 	* Cài đặt đường dẫn PATH đến **<ROOTDIR>\mingw64\bin**
-		`💡 Kiểm tra bằng cách gọi `g++` và `mingw32-make` trong terminal`
-
-</aside>
+	
+	`💡 Kiểm tra bằng cách gọi `g++` và `mingw32-make` trong terminal`
   - Download file Rapid_Roll.rar về máy và giải nén.
   - Cách chạy chương trình:
     + Mở trên PowerShell window (Shift + chuột phải) // hoặc // Mở trong Visual Studio Code.
