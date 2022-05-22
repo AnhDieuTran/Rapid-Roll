@@ -48,6 +48,8 @@
 	* Bóng: Do người chơi điều khiển bằng mũi tên trái/phải từ bàn phím.
 	* Các thanh màu, và thanh gai nhọn xuất hiện.
 	* Số điểm đang có và số mạng ở hai góc trên phía trên màn hình.
+	* Có các trái tim để tăng thêm mạng sống.
+	* Có các tấm khiên để bảo vệ khỏi những thanh gai trong một thời gian nhất định.
 * Màn hình kết thúc game:
 	* Hiển thị số điểm chơi. 
 	* Hiển thị top 5 điểm cao nhất.
@@ -62,8 +64,25 @@
   * Tách file, chia mã nguồn.
   * Một số kỹ thuật khác như: con trỏ, tạo vị trí ngẫu nhiên, vòng lặp game loop, ...  
 ***
-### 5. Kết luận
-  - Hướng phát triển thêm: Lập trình để game có đồ hoạ sinh động và đẹp hơn. Thêm các chức năng mới cho game sinh động. Chơi đối kháng giữa nhiều người...
-  - Điều tâm đắc: Sau khi hoàn thiện game bước đầu, em 
+### 5. Kết luận, hướng phát triển và các điều tâm đắc
+  * Kết luận: Đây là game đầu tay tự làm nên vẫn còn đơn giản, có nhiều sai sót, code vẫn còn xấu, chưa được clean tối ưu nhất, khi chạy còn chiếm khá nhiều bộ nhớ. Thi thoảng có phát sinh lỗi.
+  * Hướng phát triển thêm: 
+	* Tối ưu hoá code game tốt nhất có thể.
+	* Lập trình để game có đồ hoạ, âm thanh sinh động và đẹp hơn. 
+	* Thêm các chức năng mới cho game: 
+		* Hỏi tên người chơi và lưu tên trên bảng xếp hạng điểm cao vào file txt.
+		* Hai người cùng chơi đối kháng trên một máy.
+		* Chọn nhân vật chơi theo ý muốn.
+		* Có thể thêm các items với chức năng mới.
+  * Điều tâm đắc: 
+	* Thông qua bài tập dự án này, em đã học thêm được rất nhiều điều về các kỹ thuật lập trình của ngôn ngữ C++, và phần nào đó nâng cao kỹ thuật của bản thân.
+	* Biết cách sử dụng thư viện đồ hoạ SDL2 để tạo một game có đồ hoạ và âm thanh.
+	* Hiểu về tiến trình tạo và vận hành của một game
+	* Rút ra được nhiều kinh nghiệm và ngày càng yêu thích với lập trình. Em cảm thấy rất vui và thích thú khi một đoạn code nào đó hoạt động theo ý muốn hay fix được một bug gì đó.
+	
+* Em rất mong được các thầy cô chỉ dẫn nhiều hơn nữa hoàn thiện dự án này hơn nữa, để học hỏi nhiều hơn nữa
 ***
-### 6. Nguồn tham khảo và tài nguyên game
+### 6. Nguồn tham khảo
+* Các hình ảnh trong game được lấy một phần từ google, một phần tự làm bằng Canva
+* Âm thanh được lấy từ nhiều nguồn trên google
+* Học về SDL/SDL2 tại [LT SDL](https://phattrienphanmem123az.com/lap-trinh-game-cpp), [LT SDL2](https://phattrienphanmem123az.com/lap-trinh-game-c-p2)
