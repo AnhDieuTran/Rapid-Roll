@@ -1,9 +1,12 @@
 # Rapid-Roll
 > Bài tập lớn lớp Lập trình nâng cao INT2215 1
+> Sử dụng C ++, SDL2, SDL_ttf, SDL_image, SDL_mixer thư viện phát triển trên Visual Studio Code.
 ## Trần Diệu Anh - 21020279
 
 ### 1. Hướng dẫn cài đặt
+  **a. Cài đặt**
   - Chương trình sử dụng Visual Studio Code
+  - Tải xuống đầy đủ [VS Code](https://code.visualstudio.com/download)
   - Download file Rapid_Roll.rar về máy và giải nén.
   - Cách chạy chương trình:
     + Mở trên PowerShell window (Shift + chuột phải) // hoặc // Mở trong Visual Studio Code.
