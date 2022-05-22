@@ -14,11 +14,13 @@
 	* Cài đặt đường dẫn PATH đến **<ROOTDIR>\mingw64\bin**
 	
 	`💡 Kiểm tra bằng cách gọi `g++` và `mingw32-make` trong terminal`
-  - Download file Rapid_Roll.rar về máy và giải nén.
-  - Cách chạy chương trình:
-    + Mở trên PowerShell window (Shift + chuột phải) // hoặc // Mở trong Visual Studio Code.
-    + Gõ "mingw32-make" để make chương trình.
-    + Gõ "main.exe" + ấn Tab (.\main.exe).
+  - Download file [Rapid_Roll.rar](https://github.com/AnhDieuTran/Rapid_Roll/raw/main/Rapid_Roll.rar) về máy và giải nén.
+  **b. Cách chạy chương trình**
+	* Cách 1: Ấn đúp chuột vào file `main.exe`
+	* Cách 2: 
+		+ Mở Folder `Rapid Roll` trong VS Code.
+    	+ Gõ **`mingw32-make`** để make chương trình trong Terminal.
+    	+ Gõ "main.exe" + ấn Tab (.\main.exe).
     + Game đã được chạy. 
  
 
