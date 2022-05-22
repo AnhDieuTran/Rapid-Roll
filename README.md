@@ -1,5 +1,6 @@
 # Rapid-Roll
 > Bài tập lớn lớp Lập trình nâng cao INT2215 1
+
 > Sử dụng C ++, SDL2, SDL_ttf, SDL_image, SDL_mixer thư viện phát triển trên Visual Studio Code.
 ## Trần Diệu Anh - 21020279
 
