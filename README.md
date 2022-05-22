@@ -8,7 +8,8 @@
     + Mở trên PowerShell window (Shift + chuột phải) // hoặc // Mở trong Visual Studio Code.
     + Gõ "mingw32-make" để make chương trình.
     + Gõ "main.exe" + ấn Tab (.\main.exe).
-    + Game đã được chạy.  
+    + Game đã được chạy. 
+ 
 
 2. Mô tả chung về trò chơi
   Người chơi di chuyển quả bóng bằng phím mũi tên trái để đi sang trái, và phím mũi phải để đi sang phải. Quả bóng phải đập vào thanh màu để thêm điểm và đi tiếp, nếu không, nếu nó va chạm với gai nhọn phía trên, rơi ra ngoài giới hạn dưới hoặc rơi trên cọc, người chơi sẽ mất 1 mạng. 
