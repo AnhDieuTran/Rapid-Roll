@@ -38,7 +38,19 @@
 * Đồ hoạ SDL2.
 ***
 ### 3. Mô tả chức năng
-
+* Màn hình Menu:
+Bắt đầu vào game bằng ấn nút Play hoặc phím cách trên bàn phím.
+Có 2 cách tắt chương trình: sử dụng nút tắt ở cửa sổ hoặc nút Exit ở Menu.
+* Màn hình chơi:
+Các đối tượng:
+Máy bay (màu xanh) do người chơi điều khiển.
+Các máy bay địch xuất hiện và xả đạn tấn công.
+Số điểm đang có và số mạng ở góc trên phía trái màn hình.
+Tốc độ sẽ tằng dần theo sô điểm bạn đạt được.
+* Màn hình kết thúc game:
+Có thể thực hiện 2 thao tác:
+Ấn nút PlayAgain để chơi lại ván mới.
+Ấn nút Exit để thoát game.
 ***
 ### 4. Các kỹ thuật lập trình đã dùng
   - Đồ hoạ bằng SDL2, SDL_image, SDL_ttf, SDL_mixer.
