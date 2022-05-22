@@ -1,5 +1,5 @@
 # Rapid-Roll
-# Trần Diệu Anh - 21020279
+## Trần Diệu Anh - 21020279
 
 1. Hướng dẫn cài đặt
   - Chương trình sử dụng Visual Studio Code
