@@ -10,8 +10,8 @@
   - Tải xuống đầy đủ [VS Code](https://code.visualstudio.com/download)
   - Tải [MinGW-W64](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/7.3.0/threads-win32/seh/x86_64-7.3.0-release-win32-seh-rt_v5-rev0.7z) 
      * Giải nén file vừa tải			
-     * Copy thư mục `mingw64` vào **<ROOTDIR>** (Ví dụ `D:\software`)
-     * Cài đặt đường dẫn PATH đến **<ROOTDIR>\mingw64\bin**
+     * Copy thư mục `mingw64` vào **<<ROOTDIR>>** (Ví dụ `D:\software`)
+     * Cài đặt đường dẫn PATH đến **<<ROOTDIR>>\mingw64\bin**
 
 	`💡 Kiểm tra bằng cách gọi `g++` và `mingw32-make` trong terminal`
   - Download file [Rapid_Roll.rar](https://github.com/AnhDieuTran/Rapid_Roll/raw/main/Rapid_Roll.rar) về máy và giải nén.
