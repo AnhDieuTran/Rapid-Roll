@@ -56,11 +56,11 @@
 		* Ấn nút Exit để thoát game.
 ***
 ### 4. Các kỹ thuật lập trình đã dùng
-  - Đồ hoạ bằng SDL2, SDL_image, SDL_ttf, SDL_mixer.
-  - Sử dụng mảng Vector. 
-  - Dùng cấu trúc Class cho Painter, bar, items.
-  - Tách file, chia mã nguồn.
-  - Con trỏ (ít)
+  * Đồ hoạ bằng SDL2, SDL_image, SDL_ttf, SDL_mixer.
+  * Sử dụng mảng Vector. 
+  * Dùng cấu trúc Class cho Painter, bar, items.
+  * Tách file, chia mã nguồn.
+  * Một số kỹ thuật khác như: con trỏ, tạo vị trí ngẫu nhiên, vòng lặp game loop, ...  
 ***
 ### 5. Kết luận
   - Hướng phát triển thêm: Lập trình để game có đồ hoạ sinh động và đẹp hơn. Thêm các chức năng mới cho game sinh động. Chơi đối kháng giữa nhiều người...
