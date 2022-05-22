@@ -13,7 +13,7 @@
      * Copy thư mục `mingw64` vào **<ROOTDIR<Rootdir>>** (Ví dụ `D:\software`)
      * Cài đặt đường dẫn PATH đến **<ROOTDIR<Rootdir>>\mingw64\bin**
 
-	`💡 Kiểm tra bằng cách gọi `g++` và `mingw32-make` trong terminal`
+	`💡 Kiểm tra bằng cách gọi ``g++`` và ``mingw32-make`` trong terminal`
   - Download file [Rapid_Roll.rar](https://github.com/AnhDieuTran/Rapid_Roll/raw/main/Rapid_Roll.rar) về máy và giải nén.
 
 **b. Cách chạy chương trình**
