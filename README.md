@@ -75,14 +75,14 @@
 		* Chọn nhân vật chơi theo ý muốn.
 		* Có thể thêm các items với chức năng mới.
   * Điều tâm đắc: 
-	* Thông qua bài tập dự án này, em đã học thêm được rất nhiều điều về các kỹ thuật lập trình của ngôn ngữ C++, và phần nào đó nâng cao kỹ thuật của bản thân.
-	* Biết cách sử dụng thư viện đồ hoạ SDL2 để tạo một game có đồ hoạ và âm thanh.
-	* Hiểu về tiến trình tạo và vận hành của một game
-	* Rút ra được nhiều kinh nghiệm và ngày càng yêu thích với lập trình. Em cảm thấy rất vui và thích thú khi một đoạn code nào đó hoạt động theo ý muốn hay fix được một bug gì đó.
+	* Thông qua bài tập dự án này, em đã học thêm được rất nhiều điều về các kỹ thuật lập trình của ngôn ngữ C++, biết cách sử dụng thư viện đồ hoạ SDL2 để tạo một game có đồ hoạ và âm thanh, và phần nào đó nâng cao kỹ thuật của bản thân dù vẫn chưa hiểu được hết các lĩnh vực này.
+	* Hiểu về tiến trình tạo và vận hành của một game.
+	* Rút ra được nhiều kinh nghiệm, ngày càng yêu thích và thấy lập trình có rất nhiều thứ thú vị và hấp dẫn. Em cảm thấy rất vui và thích thú khi một đoạn code nào đó hoạt động theo ý muốn hay fix được một bug gì đó.
+	* Đặc biệt qua quá trình làm project, gặp nhiều lỗi, em thấy bản thân cần phải thật kiên nhẫn, tỉ mỉ, biết tự học, chủ động tìm hiểu thêm bên ngoài, đồng thời sắp xếp, quản lý thời gian khoa học nhất. 
 	
-* Em rất mong được các thầy cô chỉ dẫn nhiều hơn nữa hoàn thiện dự án này hơn nữa, để học hỏi nhiều hơn nữa
+  * Em rất mong được các thầy cô chỉ dẫn nhiều hơn trong những quá trình học sau này để ngày một phát triển hơn.
 ***
 ### 6. Nguồn tham khảo
-* Các hình ảnh trong game được lấy một phần từ google, một phần tự làm bằng Canva
+* Các hình ảnh trong game được lấy một phần từ google, một phần tự làm bằng [Canva](https://www.canva.com/)
 * Âm thanh được lấy từ nhiều nguồn trên google
-* Học về SDL/SDL2 tại [LT SDL](https://phattrienphanmem123az.com/lap-trinh-game-cpp), [LT SDL2](https://phattrienphanmem123az.com/lap-trinh-game-c-p2)
+* Học về SDL/SDL2 tại [LT SDL](https://phattrienphanmem123az.com/lap-trinh-game-cpp), [LT SDL2](https://phattrienphanmem123az.com/lap-trinh-game-c-p2) và trên [Lazy Foo](https://lazyfoo.net/tutorials/SDL/index.php)
