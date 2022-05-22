@@ -1,6 +1,7 @@
 # Rapid-Roll
 
 1. Hướng dẫn cài đặt
+  - Chương trình sử dụng Visual Studio Code
   - Download file Rapid_Roll.rar về máy và giải nén.
   - Cách chạy chương trình:
     + Mở trên PowerShell window (Shift + chuột phải) // hoặc // Mở trong Visual Studio Code.
