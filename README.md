@@ -1,6 +1,7 @@
 # Rapid-Roll
-## Trần Diệu Anh - 21020279
 > Bài tập lớn lớp Lập trình nâng cao INT2215 1
+## Trần Diệu Anh - 21020279
+
 ### 1. Hướng dẫn cài đặt
   - Chương trình sử dụng Visual Studio Code
   - Download file Rapid_Roll.rar về máy và giải nén.
