@@ -32,6 +32,7 @@
 	+ Mục tiêu của trò chơi là lăn bóng trong thời gian lâu hơn và ghi điểm cao hơn.
 	
 **b. Các ý tưởng chính**
+	
 	* Hệ thống Menu chọn độ khó, chơi game, chơi lại.
 	* Hệ thống các thanh bar, heart, shield.
 	* Hệ thống âm thanh
