@@ -26,12 +26,9 @@
 ***
 ### 2. Mô tả chung về trò chơi, các ý tưởng chính
   **a. Mô tả chung**
-	
 	- Cách chơi: 
 		+ Người chơi di chuyển quả bóng bằng phím mũi tên trái để đi sang trái, và phím mũi phải để đi sang phải. Quả bóng phải đập vào thanh màu để thêm điểm và đi tiếp, nếu không, nếu nó va chạm với gai nhọn phía trên, rơi ra ngoài giới hạn dưới hoặc rơi trên cọc, người chơi sẽ mất 1 mạng. 
-        
 		+ Có thể thêm mạng khi ăn những icon trái tim. Có thêm chức năng bảo vệ khi rơi vào cọc khi ăn icon khiên bảo vệ.
-        
 		+ Mục tiêu của trò chơi là lăn bóng trong thời gian lâu hơn và ghi điểm cao hơn.
   
   **b. Các ý tưởng chính**
