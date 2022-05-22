@@ -19,10 +19,9 @@
 	* Cách 1: Ấn đúp chuột vào file `main.exe`
 	* Cách 2: 
 		+ Mở Folder `Rapid Roll` trong VS Code.
-    	+ Gõ **`mingw32-make`** để make chương trình trong Terminal.
-    	+ Gõ "main.exe" + ấn Tab (.\main.exe).
-    + Game đã được chạy. 
- 
+    	+ Gõ **`mingw32-make`** + Enter để make chương trình trong Terminal.
+    	+ Gõ **`main.exe`** + ấn Tab (.\main.exe) + Enter
+    	+ Game đã được chạy. 
 
 ### 2. Mô tả chung về trò chơi
   Người chơi di chuyển quả bóng bằng phím mũi tên trái để đi sang trái, và phím mũi phải để đi sang phải. Quả bóng phải đập vào thanh màu để thêm điểm và đi tiếp, nếu không, nếu nó va chạm với gai nhọn phía trên, rơi ra ngoài giới hạn dưới hoặc rơi trên cọc, người chơi sẽ mất 1 mạng. 
