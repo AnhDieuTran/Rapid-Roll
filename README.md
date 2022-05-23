@@ -8,7 +8,7 @@
 **a. Cài đặt**
   - Chương trình sử dụng Visual Studio Code
   - Tải xuống đầy đủ [VS Code](https://code.visualstudio.com/download)
-  - Tải các thư viện: [SDL2](https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar.gz), [SDL_mixer](https://www.libsdl.org/projects/SDL_mixer/)
+  - Tải các thư viện: [SDL2](https://www.libsdl.org/release/SDL2-devel-2.0.20-mingw.tar.gz), [SDL_mixer](https://www.libsdl.org/projects/SDL_mixer/), [SDL_image](https://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/release/)
   - Tải [MinGW-W64](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/7.3.0/threads-win32/seh/x86_64-7.3.0-release-win32-seh-rt_v5-rev0.7z) 
      * Giải nén file vừa tải			
      * Copy thư mục `mingw64` vào **<ROOTDIR<Rootdir>>** (Ví dụ `D:\software`)
