@@ -57,7 +57,7 @@
 	* Có thể thực hiện 2 thao tác:
 		* Ấn nút PlayAgain để chơi lại ván mới.
 		* Ấn nút Exit để thoát game.
-* Video minh hoạ: [Rapid Roll]()
+* Video minh hoạ: [Rapid Roll](https://www.youtube.com/watch?v=PtZp0fDBOjA)
 ***
 ### 4. Các kỹ thuật lập trình đã dùng
   * Đồ hoạ bằng SDL2, SDL_image, SDL_ttf, SDL_mixer.
