@@ -21,6 +21,7 @@
   * Cách 1: Ấn đúp chuột vào file `main.exe`
   * Cách 2: 
      + Mở Folder `Rapid Roll` trong VS Code.
+     + Gõ **`g++`** + Enter.
      + Gõ **`mingw32-make`** + Enter để make chương trình trong Terminal.
      + Gõ **`main.exe`** + ấn Tab (.\main.exe) + Enter
      + Game đã được chạy. 
